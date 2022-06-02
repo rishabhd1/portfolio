@@ -1,0 +1,10 @@
+.title {
+    font-size: 32px;
+    font-weight: 600;
+}
+
+.title span {
+    color: #1976d2;
+    font-size: 32px;
+    font-weight: 600;
+}
